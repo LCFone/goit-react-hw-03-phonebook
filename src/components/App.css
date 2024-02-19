@@ -1,0 +1,20 @@
+.addContactBtn{
+    border-radius: 4px;
+    height: 28px;
+    margin-top: 15px;
+    margin-left: 60px;
+    background-color: rgb(211, 231, 109);
+    border: 1px solid rgb(96, 96, 96);
+    color:  rgb(42, 41, 41);
+    }
+    
+    .container{
+    max-width: 300px;
+    background-color: #e1e39d;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    
